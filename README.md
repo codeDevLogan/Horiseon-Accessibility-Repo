@@ -10,7 +10,11 @@ N/A
 
 ## Usage
 
+https://codedevlogan.github.io/Horiseon-Accessibility-Repo/
+
 The site can be used to study techniques on search engine optimization. The navagation bar can be used to click through the different sections.
+
+![Deployed-Site](assets/images/codedevlogan.github.io_Horiseon-Accessibility-Repo_.png)
 
 ## Credits
 Starter Code Provided by: [Xandromus](https://github.com/coding-boot-camp/urban-octo-telegram)
